@@ -12,21 +12,21 @@
 -------------------------------------*/
 @font-face {
   font-family: 'luxiadisplay';
-  src: url('../_fonts/luxia-display-webfont.woff2') format('woff2'),
-       url('../_fonts/luxia-display-webfont.woff') format('woff');
+  src: url('../fonts/luxia-display-webfont.woff2') format('woff2'),
+       url('../fonts/luxia-display-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Chivo";
-  src: url("../_fonts/Chivo-Regular.ttf");
+  src: url("../fonts/Chivo-Regular.ttf");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Chivo Light";
-  src: url("../_fonts/Chivo-Light.ttf");
+  src: url("../fonts/Chivo-Light.ttf");
   font-weight: 300;
   font-style: normal;
 }
