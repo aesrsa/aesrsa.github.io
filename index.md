@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Saeed Hashemi | Resume</title>
+  <link rel="stylesheet" href="_css/resume.css">
+</head>
+<body>
+<!-- // Intro -->
+<header>
+  <div class="content-wrapper">
+    <img id="profile-img" class="narrow-col" src="_images/profile-img.jpg" alt="Your Name">
+    <div class="wider-col"><h1>Saeed Hashemi</h1>
+      <h2>Front-End Developer &amp; Designer</h2>
+      <p>As a developer, I specialize in creating modular and scalable front-end architectures.</p>
+      <p>Courteous and enthusiastic, I am interested in IT and everything in its orbit. I recently began to be
+        fascinated
+        by web programming, e.g. developing apps and building websites. Invited to join my friend's start-up company as
+        a
+        front-end developer, I gained experience of working in this area. As this area complements my studies, I am keen
+        to gain more experience in the field. For this reason, I am looking for a company willing to offer me a
+        placement
+        among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to
+        your team. I am therefore currently looking for a job or an internship as a front-end developer.</p></div>
+  </div>
+</header>
+
+<main>
+  <!-- // Work Experience -->
+  <section class="work">
+    <div class="content-wrapper">
+      <h2>Work Experience</h2>
+      <p>Currently, I have no practical experience in IT field.</p>
+    </div>
+  </section>
+
+  <!-- // Technologies you master-->
+  <section class="skills">
+    <div class="content-wrapper">
+      <h2>Tech</h2>
+      <div class="half-col">
+        <h3>Languages</h3>
+        <p>HTML, CSS, JavaScript, Less</p>
+      </div>
+
+      <div class="half-col">
+        <h3>Front-end frameworks &amp; Libreries</h3>
+        <p>Vue.js, Bootstrap4, jQurey</p>
+      </div>
+
+      <div class="half-col">
+        <h3>Graphic editors</h3>
+        <p>Photoshop, Illustrator</p>
+      </div>
+
+      <div class="half-col">
+        <h3>Other</h3>
+        <p>Git, CMD, Bash(Terminal no script language)</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- // ُ Sample works-->
+  <section class="skills">
+    <div class="content-wrapper">
+      <h2>Code -- Sample works</h2>
+      <div class="half-col important">
+        <h3><a href="#">Github</a></h3>
+        <p>I've been sparsely active on Github since taking on my full-time position with GRIDSMART. Most of my code
+          output since that time is proprietary.</p>
+      </div>
+
+      <div class="half-col important">
+        <h3><a href="#">Convert PSD to HTML</a></h3>
+        <p>The idea of this work in not mine, but I fully implemented it without any library.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="skills">
+    <div class="content-wrapper">
+      <h2>Languages</h2>
+      <h3>English</h3>
+      <p>Proficient</p>
+
+      <h3>German</h3>
+      <p>Elementary</p>
+    </div>
+  </section>
+
+  <!-- // Education -->
+  <section class="education">
+    <div class="content-wrapper">
+      <h2>Education</h2>
+      <!-- School details: copy this whole block to add more schools. -->
+      <h3>MS - 2015-2017 - Malek Ashtar University of Techology</h3>
+      <p>Electronic nad Telecommunication engineering - Cryptology</p>
+      <!-- Add as many paragraphs as you need. -->
+
+      <h3>Research field</h3>
+      <p>Cloud computing authentication protocols<br>As Cloud computing grows, secure communication and protocols dedicated to cloud computing are required. One of
+        these protocols</p>
+      <!-- End of school details. -->
+    </div>
+  </section>
+</main>
+
+<!-- // Footer & contact info -->
+<footer>
+  <div class="content-wrapper">
+    <h2>Let's Keep in Touch!</h2>
+
+    <!-- Social media and contact links. Add or remove any networks. -->
+    <div>
+      <a href="mailto:email@example.com">saeed.hashemi91@gmail.com</a>
+      <a href="#" target="_blank">LinkedIn</a>
+    </div>
+
+    <p>Copyright 2017 by Saeed Hashemi</p>
+  </div>
+</footer>
+</body>
+</html>
